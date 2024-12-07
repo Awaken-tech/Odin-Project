@@ -1,1 +1,1 @@
-Compilation of all the odin projects that i made
+Compilation of all the odin activities will be sent here and can be viewed publicly.
